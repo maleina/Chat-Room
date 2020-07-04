@@ -15,3 +15,9 @@ class in the chat module.  Three basic actions are covered:
 ### Completed WebSocketChatServer
 Made changes inside WebSocketChatServer in order to implement each method's description.
 
+### Run the application with command
+mvn build; mvn spring-boot:run
+
+### Access the login page
+http://localhost:8080
+
